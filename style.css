@@ -182,6 +182,7 @@ button {
     justify-content: center;
     align-items: center;
     background-color: #F9FAF8;
+    padding: 25px 0px;
 
 }
 
@@ -196,17 +197,18 @@ button {
     display: flex;
     flex-flow: row wrap;
     justify-content: space-between;
-    margin: 0px 48px;
+    margin: 0px 150px;
     align-items: center;
     padding-bottom: 50px;
+
 }
 
 .img-block {
     display: flex;
     flex-flow: column nowrap;
     flex: 1 auto;
-    height: 10%;
-    width: 10%;
+    height: 5%;
+    width: 5%;
     padding: 25px;
 }
 
@@ -232,7 +234,7 @@ img {
     font-weight: lighter;
     font-style: italic;
     color: #1F2937;
-    padding: 50px 10px;
+    padding: 100px 10px;
     flex: 0 1 auto;
 }
 
