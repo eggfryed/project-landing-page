@@ -65,7 +65,7 @@ a {
     flex: 1 auto;
     justify-content: center;
     align-items: center;
-    padding: 5px;
+    padding: 50px;
     background-color: #ebd8b5;
 }
 
@@ -75,7 +75,7 @@ a {
     flex: 1 auto;
     justify-content: center;
     align-items: center;
-    padding: 5px;
+    padding: 50px;
     background-color: #d3c7be;
 }
 
@@ -85,7 +85,7 @@ a {
     flex: 1 auto;
     justify-content: center;
     align-items: center;
-    padding: 5px;
+    padding: 50px;
     background-color: #dfddc5;
 }
 
@@ -101,8 +101,8 @@ img {
 img {
     border: 20px solid #b48c7f;
     border-radius: 20px;
-    border-start-start-radius: 50px;
-    border-end-end-radius: 50px;
+    border-start-end-radius: 50px;
+    border-end-start-radius: 50px;
 }
 
 .page3
@@ -124,7 +124,7 @@ img {
     display: flex;
     flex-flow: row nowrap;
     flex: 1 auto;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     background-color: #1F2937;
     padding: 70px 0px;
@@ -139,12 +139,14 @@ img {
 }
 
 .hero-text {
+    width: 350px;
     font-size: 48px;
     font-weight: 900;
     color: #F9FAF8;
 }
 
 .hero-subtext {
+    width: 380px;
     font-size: 18px;
     color: #E5E7EB;
     padding-bottom: 10px;
@@ -168,7 +170,7 @@ img {
 
 .button-one
 button {
-    padding: 8px 50px;
+    padding: 8px 35px;
     border: 2px solid #E5E7EB;
     border-radius: 10px;
     color: #E5E7EB;
@@ -214,7 +216,7 @@ button {
 
 .img-block
 img {
-    border: 10px solid #3882f6;
+    border: 5px solid #3882f6;
     border-radius: 20px;
 }
 
