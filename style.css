@@ -168,11 +168,11 @@ img {
 
 .button-one
 button {
+    padding: 8px 50px;
+    border: 2px solid #E5E7EB;
+    border-radius: 10px;
     color: #E5E7EB;
     background-color: #3882f6;
-    padding: 8px 50px;
-    border: 2px #3882f6 transparent;
-    border-radius: 10px;
 }
 
 .block-two {
